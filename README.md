@@ -129,7 +129,8 @@ Moreover, load will be distributed among nodes.
   The End. Thank you!
 ```
 
-...
+![Screenshot 2022-07-14 at 8 40 25 PM](https://user-images.githubusercontent.com/97054844/179118943-02a46781-88ba-44c6-a78b-f6f56cfebe07.png)
+
 
 
 ### Finally, we can delete the cluster easily
