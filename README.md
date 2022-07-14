@@ -107,7 +107,8 @@ Now, create a Route53 private hosted zone, if you don’t have public domain nam
   kubectl expose deoloyment web-=server --type Nodeport
 ```
 
-...
+![101](https://user-images.githubusercontent.com/97054844/179118687-b474b445-7619-4335-ba11-c6a00d3f9f66.png)
+
 
 
 
